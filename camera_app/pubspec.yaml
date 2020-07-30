@@ -23,11 +23,9 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
-  # não inicializou a camera
-  # adv_camera: ^1.1.2+1
-  flutter_better_camera: ^0.6.1
-  path_provider: ^0.5.0
-  video_player: ^0.10.0
+  camera:
+  path_provider:
+  path:
 
 
 
